@@ -1,0 +1,37 @@
+{
+    "machine": "auto_runic_altar",
+    "registryName": "auto_runic_altar_wyvern_core",
+    "recipeTime": 20,
+    "requirements": [
+      {
+        "type": "energy",
+        "io-type": "input",
+        "energyPerTick": 5000
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "minecraft:nether_star",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "draconicevolution:draconium_ingot",
+        "amount": 4
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "draconicevolution:draconic_core",
+        "amount": 4
+      },
+      {
+        "type": "item",
+        "io-type": "output",
+        "item": "draconicevolution:wyvern_core",
+        "amount": 1
+      }
+    ]
+  }
+  
