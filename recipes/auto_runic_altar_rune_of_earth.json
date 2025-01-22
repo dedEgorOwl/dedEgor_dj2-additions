@@ -1,0 +1,43 @@
+{
+    "machine": "auto_runic_altar",
+    "registryName": "auto_runic_altar_rune_of_earth",
+    "recipeTime": 20,
+    "requirements": [
+      {
+        "type": "energy",
+        "io-type": "input",
+        "energyPerTick": 5000
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "actuallyadditions:item_crystal_empowered@4",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "botania:manaresource@0",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "botania:manaresource@23",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "contenttweaker:earthen_core",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "io-type": "output",
+        "item": "contenttweaker:rune_of_earth",
+        "amount": 1
+      }
+    ]
+  }
+  

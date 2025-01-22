@@ -1,0 +1,43 @@
+{
+    "machine": "auto_runic_altar",
+    "registryName": "auto_runic_altar_rune_of_spring",
+    "recipeTime": 20,
+    "requirements": [
+      {
+        "type": "energy",
+        "io-type": "input",
+        "energyPerTick": 5000
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "contenttweaker:rune_of_air",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "contenttweaker:rune_of_earth",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "contenttweaker:livingmatter",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "contenttweaker:environmental_core",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "io-type": "output",
+        "item": "contenttweaker:rune_of_spring",
+        "amount": 1
+      }
+    ]
+  }
+  

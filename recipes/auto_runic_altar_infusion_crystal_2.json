@@ -1,0 +1,37 @@
+{
+    "machine": "auto_runic_altar",
+    "registryName": "auto_runic_altar_prudentium_ingot",
+    "recipeTime": 20,
+    "requirements": [
+      {
+        "type": "energy",
+        "io-type": "input",
+        "energyPerTick": 5000
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "contenttweaker:inferiumcrystal",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "mysticalagriculture:crafting@1",
+        "amount": 4
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "thaumcraft:salis_mundus",
+        "amount": 4
+      },
+      {
+        "type": "item",
+        "io-type": "output",
+        "item": "contenttweaker:prudentiumcrystal",
+        "amount": 1
+      }
+    ]
+  }
+  

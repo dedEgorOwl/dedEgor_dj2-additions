@@ -1,0 +1,49 @@
+{
+    "machine": "auto_runic_altar",
+    "registryName": "auto_runic_altar_rune_of_lust",
+    "recipeTime": 20,
+    "requirements": [
+      {
+        "type": "energy",
+        "io-type": "input",
+        "energyPerTick": 5000
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "contenttweaker:rune_of_spring",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "contenttweaker:rune_of_fire",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "botania:storage@3",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "contenttweaker:dreammatter",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "botania:manaresource@8",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "io-type": "output",
+        "item": "contenttweaker:rune_of_lust",
+        "amount": 1
+      }
+    ]
+  }
+  

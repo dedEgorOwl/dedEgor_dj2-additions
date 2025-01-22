@@ -1,0 +1,31 @@
+{
+    "machine": "auto_runic_altar",
+    "registryName": "auto_runic_altar_prudentium_ingot",
+    "recipeTime": 20,
+    "requirements": [
+      {
+        "type": "energy",
+        "io-type": "input",
+        "energyPerTick": 5000
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "mysticalagriculture:crafting@33",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "mysticalagriculture:crafting@1",
+        "amount": 2
+      },
+      {
+        "type": "item",
+        "io-type": "output",
+        "item": "mysticalagriculture:crafting@34",
+        "amount": 1
+      }
+    ]
+  }
+  
