@@ -1,0 +1,55 @@
+{
+    "machine": "auto_runic_altar",
+    "registryName": "auto_runic_altar_green_heart",
+    "recipeTime": 20,
+    "requirements": [
+      {
+        "type": "energy",
+        "io-type": "input",
+        "energyPerTick": 5000
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "bhc:orange_heart",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "bhc:red_heart",
+        "amount": 2
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "contenttweaker:defensive_core",
+        "amount": 2
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "contenttweaker:environmental_core",
+        "amount": 4
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "bloodmagic:blood_shard@1",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "io-type": "input",
+        "item": "contenttweaker:angelic_silicon_crystal_mixture",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "io-type": "output",
+        "item": "bhc:green_heart",
+        "amount": 1
+      }
+    ]
+  }
+  
